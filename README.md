@@ -1,5 +1,6 @@
 # TATIP-SMPN-3KB
 Tata tertib siswa smpn 3 kongbeng untuk memudahkan proses pendisiplinan siswa
+
 import React, { useState, useEffect } from 'react';
 import { initializeApp } from 'firebase/app';
 import { 
